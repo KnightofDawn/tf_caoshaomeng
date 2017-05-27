@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+
+
 """ Convolutional network applied to CIFAR-10 dataset classification task.
 References:
     Learning Multiple Layers of Features from Tiny Images, A. Krizhevsky, 2009.
